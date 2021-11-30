@@ -1,4 +1,4 @@
-# E19CSE389, Sheershak Gaur
+# Context free grammar to Pushdown Automata
 Automata coding assignment
 This repository contains a methodology on how to convert a context free grammar to respective push down automata.
 The author of this project is E19CSE389, Sheershak Gaur of team Startle.
